@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: sundardoc/myimage:latest
+          image: sundardoc/sundar11:latest
           imagePullPolicy: Always
