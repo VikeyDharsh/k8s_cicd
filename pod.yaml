@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: sundardoc/sundar11:latest
+          image: vikeydharshan/viknesh29:latest
           imagePullPolicy: Always
